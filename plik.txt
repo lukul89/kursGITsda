@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Ala ma kota
 dodanie nowej funkcji
+=======
+zmiana w pliku
+>>>>>>> parent of f5f1268... Zmiana na nowsza wersje
